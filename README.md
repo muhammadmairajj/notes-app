@@ -1,5 +1,5 @@
-# notes-app
-Note App using MERN STACK
+# Note-App
+Full Stack MERN APP with  React, Node, Express, MongoDB Atlas, and TypeScript.
 
 
 #### Live Demo Video:
